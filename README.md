@@ -1,7 +1,10 @@
 # SR-FLIPFLOP-USING-CASE
 **NAME:**MOHANAPRABHA S
+
 **REGISTER NO:212224040197
+
 **DATE:13.5.25
+
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
